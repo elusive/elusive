@@ -8,8 +8,8 @@ I work mostly in the Microsoft stack but I enjoy infosec and learning linux as w
 
 ## Links
 
-![linkedin](assets/linkedin_icon.svg)
-<img alt="linkedin" src="assets/linkedin_icon.svg" height="64" width=64" /> [](https://linkedin.com/in/johncgilliland)
+
+[<img alt="linkedin" src="assets/linkedin_icon.svg" />](https://linkedin.com/in/johncgilliland)
 
 [<img alt="twitter" src="assets/twitter_icon.svg" height="64" width="64" />](https://twitter.com/johncgilliland)
 [<img alt="instagram" src="assets/instagram_icon.svg" height="64" width="64" />](https://instagram.com/johncgilliland)

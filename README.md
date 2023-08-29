@@ -4,7 +4,7 @@
 Hello, I am john gilliland. A software developer [[resume](https://johng.info/resume)]
 from Kentucky now residing in beautiful Colorado.
 
-I work mostly in the Microsoft stack but I enjoy nodejs, react, angular, and learning infosec as well. I have a variety of code projects here, though most are only partially complete due to the demands of being a full time engineer. 
+I work mostly in the Microsoft stack but I enjoy typescript, golang, and learning infosec as well. I have a variety of code projects here, though most are only partially complete due to the demands of being a full time engineer. 
 
 ## Links
 

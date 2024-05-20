@@ -4,7 +4,7 @@
 Hello, I am john gilliland. A software developer [[resume](https://resume.johng.info)]
 from Kentucky now residing in beautiful Colorado.
 
-I have recently worked mostly in the Microsoft stack (WPF, UWP, Xaml, C#). I also work with typescript, javascript, and golang. I have a variety of code projects here, though most are only partially complete due to the demands of being a full time engineer.
+I have recently worked mostly in the Microsoft stack (WPF, UWP, Xaml, C#). I now work with typescript, javascript, and some golang. I have a variety of code projects here, though most are only partially complete due to the demands of being a full time engineer.
 
 #### Languages:
 
@@ -13,7 +13,7 @@ I have recently worked mostly in the Microsoft stack (WPF, UWP, Xaml, C#). I als
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 ![Ruby](https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)
 

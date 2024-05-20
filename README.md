@@ -1,8 +1,5 @@
 [![elusive's github stats](https://github-readme-stats.vercel.app/api?username=elusive)](https://github.com/anuraghazra/github-readme-stats)
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elusive&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
-
-
 ## which jogi 
 Hello, I am john gilliland. A software developer [[resume](https://resume.johng.info)]
 from Kentucky now residing in beautiful Colorado.

@@ -1,7 +1,7 @@
 <img 
     alt="Avatar for JoGi"
     src="assets/johngilliland.jpeg"
-    style="width: 200px; margin: 0 auto;" />
+    style="width: 120px; margin: auto;" />
 
 ## elusive
 Hello, I am john gilliland. A software developer [[resume](https://resume.johng.info) living in Northern California.

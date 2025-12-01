@@ -4,7 +4,7 @@
     style="width: 120px; margin: auto;" />
 
 ## elusive
-Hello, I am john gilliland. A software developer [[resume](https://resume.johng.info) living in Northern California.
+Hello, I am john gilliland. A software developer [[resume](https://resume.johng.info)] living in Northern California.
 
 I have recently worked mostly in the Microsoft stack (WPF, UWP, Xaml, C#). I now work with typescript, javascript, python and some golang. I have a variety of code projects here, though most are only partially complete due to the demands of being a full time engineer. And many have to remain private.
 
